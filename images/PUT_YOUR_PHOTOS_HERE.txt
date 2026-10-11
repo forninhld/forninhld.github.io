@@ -1,0 +1,8 @@
+Bỏ ảnh của bạn vào thư mục này với tên:
+photo1.jpg
+photo2.jpg
+photo3.jpg
+
+(hoặc đổi tên tùy ý, nhớ sửa lại trong index.html cho khớp)
+
+Sau khi thêm ảnh thật, xóa file .txt này đi cho gọn.
