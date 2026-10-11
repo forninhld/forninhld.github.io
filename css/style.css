@@ -286,3 +286,19 @@ body {
   color: #c98ba0;
   margin-bottom: 10px;
 }
+
+.music-btn {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 20;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 999px;
+  background: #ffffff;
+  color: #d6336c;
+  font-size: 14px;
+  font-weight: 600;
+  box-shadow: 0 6px 20px rgba(214, 51, 108, 0.2);
+  cursor: pointer;
+}
